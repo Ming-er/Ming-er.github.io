@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Here is **Yiming Li(李一鸣)**.
+
 I am now a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences. My main research interests are audio-text multi-modal understanding and audio generation.
 
 
@@ -42,12 +43,14 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+## Challenge Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+## General Awards
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
+- *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
