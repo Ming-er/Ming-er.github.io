@@ -21,30 +21,10 @@ Here is **Yiming Li** (**李一鸣**).
 
 I am now a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences. My main research interests are audio-text multi-modal understanding and audio generation.
 
-<div style="display:none">
-  
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
 - *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
-
-<div style="display:none">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-</div>
 
 # 📝 Publications 
 ### 🎙 Audio and Speech Processing
@@ -69,13 +49,3 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2023.10*, **First-Class Academic Scholarship**.
 - *2022.06*, **Outstanding Graduate of Beijing Province**.
 - *2019.12*, **National Scholarship**.
-
-<div style="display:none">
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-</div>
-<div style="display:none">
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-</div>
