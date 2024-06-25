@@ -27,6 +27,10 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 
+# 📖 Educations
+- *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
+- *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
+- 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -57,13 +61,11 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2022.06*, **Outstanding Graduate of Beijing Province**.
 - *2019.12*, **National Scholarship**.
 
-# 📖 Educations
-- *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
-- *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing. 
-
+<div style="display:none">
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</div>
