@@ -62,7 +62,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2024.02*, **The first place** of *WSDM (CCF-B) CUP 2024*, as first author, beat teams from Huawei 2012, NetEase IEG, and CAS IA, etc.
 - *2023.11*, **The first prize** of *The 2nd Baidu Search Innovation Contest - Search Answer Organization*, 1/220, as individual participant.
 - *2022.11*, **The third prize** of *2022 CCF Big Data & Computing Intelligence Contest - Few Shot Text Classification*, 5/1476.
-- *2022.07*, **Judges's Award** of *DCASE 2022 Task 4*, as first author.
+- *2022.07*, **Judge's award** of *DCASE 2022 Task 4*, as first author.
 - *2020.11*, **National first prize** of *China Undergraduate Mathematical Contest in Modeling*, as team leader.
   
 ### 🌻 General Awards
@@ -74,7 +74,8 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+</div>
+<div style="display:none">
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 </div>
