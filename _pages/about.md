@@ -31,9 +31,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
 - *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
 
-
-# 📝 Publications 
-
+<div style="display:none">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,15 +43,19 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📝 Publications 
+### 🎙 Audio and Speech Processing
+- ``ICASSP 2024`` [Audio-free Prompt Tuning for Language-Audio Models](https://arxiv.org/abs/2309.08357), **Yiming Li**, Xiangdong Wang, Hong Liu.
+- ``ICASSP 2024`` [Semi-supervised Sound Event Detection with Local and Global Consistency Regularization](https://arxiv.org/abs/2309.08355), **Yiming Li**, Xiangdong Wang, Hong Liu, et al.
 
 # 🎖 Honors and Awards
 
 ### Challenge Awards
 - *2024.02*, **The first place** of *WSDM (CCF-B) CUP 2024*, as first author, beat teams from Huawei 2012, NetEase IEG, and CAS IA, etc.
-- *2023.11*, **The first prize** of *The 2nd Baidu Search Innovation Contest-Search Answer Organization*, 1/220, as individual participant.
-- *2022.11*, **The third prize** of *2022 CCF Big Data & Computing Intelligence Contest-Few Shot Text Classification*, 5/1476.
+- *2023.11*, **The first prize** of *The 2nd Baidu Search Innovation Contest - Search Answer Organization*, 1/220, as individual participant.
+- *2022.11*, **The third prize** of *2022 CCF Big Data & Computing Intelligence Contest - Few Shot Text Classification*, 5/1476.
 - *2022.07*, **Judges's Award** of *DCASE 2022 Task 4*, as first author.
 - *2020.11*, **National first prize** of *China Undergraduate Mathematical Contest in Modeling*, as team leader.
   
