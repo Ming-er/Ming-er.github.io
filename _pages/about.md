@@ -50,6 +50,10 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 ## 🎙 Audio and Speech Processing
 - ``ICASSP 2024`` [Audio-free Prompt Tuning for Language-Audio Models](https://arxiv.org/abs/2309.08357), **Yiming Li**, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Semi-supervised Sound Event Detection with Local and Global Consistency Regularization](https://arxiv.org/abs/2309.08355), **Yiming Li**, Xiangdong Wang, Hong Liu, et al.
+- ``DCASE Workshop 2022`` [A Hybrid System of Sound Event Detection Transformer and Frame-wise Model for DCASE 2022 Task 4](https://arxiv.org/abs/2210.09529), **Yiming Li**, Zhifang Guo, Zhirong Ye, et al.
+## 📚 Large Language Model
+- ``WSDM Workshop 2024`` [The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA](https://arxiv.org/abs/2402.18385), **Yiming Li**, Zhao Zhang.
+- ``NAACL Main 2024`` [LLM-Driven Knowledge Injection Advances Zero-Shot and Cross-Target Stance Detection](https://aclanthology.org/2024.naacl-short.32/), Zhao Zhang, **Yiming Li**, Jin Zhang, et al.
 
 # 🎖 Honors and Awards
 
