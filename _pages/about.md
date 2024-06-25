@@ -1,4 +1,4 @@
----
+![image](https://github.com/Ming-er/Ming-er.github.io/assets/47707075/2aa516d9-d4eb-4c46-9acd-fa12d200e17e)![image](https://github.com/Ming-er/Ming-er.github.io/assets/47707075/c4e6175d-935d-4063-aef9-fccc02f5f441)---
 permalink: /
 title: ""
 excerpt: ""
@@ -44,10 +44,13 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-## Challenge Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-## General Awards
+
+### Challenge Awards
+- *2024.02*, **The first place** of WSDM (CCF-B) CUP 2024 (as first author, beat teams from Huawei 2012, NetEase IEG, and CAS IA, etc).
+- *2023.11*, **The first prize** "The 2nd Baidu Search Innovation Contest - Search Answer Organization" (1/220, individual participant).
+
+- 
+### General Awards
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
