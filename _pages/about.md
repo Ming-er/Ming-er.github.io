@@ -1,4 +1,4 @@
-![image](https://github.com/Ming-er/Ming-er.github.io/assets/47707075/2aa516d9-d4eb-4c46-9acd-fa12d200e17e)![image](https://github.com/Ming-er/Ming-er.github.io/assets/47707075/c4e6175d-935d-4063-aef9-fccc02f5f441)---
+---
 permalink: /
 title: ""
 excerpt: ""
