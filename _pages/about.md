@@ -21,10 +21,11 @@ Here is **Yiming Li(李一鸣)**.
 
 I am now a second-year master student at Institute of Computing Technology, Chinese Academy of Sciences. My main research interests are audio-text multi-modal understanding and audio generation.
 
-
+<div style="display:none">
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
 
 # 📝 Publications 
 
