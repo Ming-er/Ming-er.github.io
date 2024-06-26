@@ -24,7 +24,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 
 # 📖 Educations
 - *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
-- *2019.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
+- *2018.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
 
 # 📝 Publications 
 ### 🎙 Audio and Speech Processing
