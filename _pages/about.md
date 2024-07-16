@@ -28,6 +28,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 
 # 📝 Publications 
 ### 🎙 Audio and Speech Processing
+- ``ACM MM 2024`` Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training, **Yiming Li**, Zhifang Guo, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Audio-free Prompt Tuning for Language-Audio Models](https://arxiv.org/abs/2309.08357), **Yiming Li**, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Semi-supervised Sound Event Detection with Local and Global Consistency Regularization](https://arxiv.org/abs/2309.08355), **Yiming Li**, Xiangdong Wang, Hong Liu, et al.
 - ``DCASE Workshop 2022`` [A Hybrid System of Sound Event Detection Transformer and Frame-wise Model for DCASE 2022 Task 4](https://arxiv.org/abs/2210.09529), **Yiming Li**, Zhifang Guo, Zhirong Ye, et al.
