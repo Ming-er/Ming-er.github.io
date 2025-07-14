@@ -37,6 +37,9 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - ``ACL Findings 2025`` [Leveraging Large Language Models for Conversational Multi-Doc QA](https://arxiv.org/abs/2402.18385), **Yiming Li**, Zhao Zhang.
 - ``NAACL Main 2024`` [LLM-Driven Knowledge Injection Advances Zero-Shot and Cross-Target Stance Detection](https://aclanthology.org/2024.naacl-short.32/), Zhao Zhang\*, **Yiming Li**\*, Jin Zhang, et al.
 
+# 💻 Internships
+- *2025.01-2025.05*, Tencent Youtu Lab, Beijing
+
 # 🎖 Honors and Awards
 
 ### 🏆 Challenge Awards
@@ -50,3 +53,4 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 - *2023.10*, **First-Class Academic Scholarship**.
 - *2022.06*, **Outstanding Graduate of Beijing Province**.
 - *2019.12*, **National Scholarship**. 🔥
+
