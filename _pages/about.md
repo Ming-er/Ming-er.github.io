@@ -23,6 +23,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 
 
 # 📖 Educations
+- *2025.09 - Now*, PhD Candidate, Division of Emerging Interdisciplinary Areas, HKUST, Hong Kong.
 - *2022.09 - 2025.06*, Master, Institute of Computing Technology, Chinese Academy of Sciences, Beijing. 
 - *2018.09 - 2022.06*, Undergraduate, College of Information and Electrical Engineering, China Agricultural University, Beijing.
 
