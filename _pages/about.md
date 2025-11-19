@@ -30,7 +30,7 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 ### 🎙 Audio and Speech Processing
 - ``AAAI 2025`` TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models, Hualei Wang, **Yiming Li**\*, Shuo Ma, Xiangdong Wang, Hong Liu.
 - ``Interspeech 2025`` Monotonic Attention for Robust Text-to-Speech Synthesis in Large Language Model Frameworks, Yike Zhang, **Yiming Li**, Jie Chen, et al.
-- - ``ICME 2025`` Diverse Audio Caption Generation with Semantic-aware Diffusion Model, Hualei Wang, **Yiming Li**, Hong Liu, Xiangdong Wang.
+- ``ICME 2025`` Diverse Audio Caption Generation with Semantic-aware Diffusion Model, Hualei Wang, **Yiming Li**, Hong Liu, Xiangdong Wang.
 - ``ACM MM 2024`` Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training (oral, top 3%), **Yiming Li**, Zhifang Guo, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Audio-free Prompt Tuning for Language-Audio Models](https://arxiv.org/abs/2309.08357), **Yiming Li**, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Semi-supervised Sound Event Detection with Local and Global Consistency Regularization](https://arxiv.org/abs/2309.08355), **Yiming Li**, Xiangdong Wang, Hong Liu, et al.
