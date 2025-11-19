@@ -28,10 +28,10 @@ I am now a second-year master student at Institute of Computing Technology, Chin
 
 # 📝 Publications 
 ### 🎙 Audio and Speech Processing
-- ``AAAI 2025`` TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models, Hualei Wang, **Yiming Li**\*, Shuo Ma, Xiangdong Wang, Hong Liu.
-- ``Interspeech 2025`` Monotonic Attention for Robust Text-to-Speech Synthesis in Large Language Model Frameworks, Yike Zhang, **Yiming Li**, Jie Chen, et al.
-- ``ICME 2025`` Diverse Audio Caption Generation with Semantic-aware Diffusion Model, Hualei Wang, **Yiming Li**, Hong Liu, Xiangdong Wang.
-- ``ACM MM 2024`` Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training (oral, top 3%), **Yiming Li**, Zhifang Guo, Xiangdong Wang, Hong Liu.
+- ``AAAI 2025`` [TimeAudio: Bridging Temporal Gaps in Large Audio-Language Models](https://www.arxiv.org/pdf/2511.11039), Hualei Wang, **Yiming Li**\*, Shuo Ma, Xiangdong Wang, Hong Liu.
+- ``Interspeech 2025`` [Monotonic Attention for Robust Text-to-Speech Synthesis in Large Language Model Frameworks](https://www.isca-archive.org/interspeech_2025/zhang25c_interspeech.pdf), Yike Zhang, **Yiming Li**, Jie Chen, et al.
+- ``ICME 2025`` [Diverse Audio Caption Generation with Semantic-aware Diffusion Model](https://www.computer.org/csdl/proceedings-article/icme/2025/11210031/2beBRohFER2), Hualei Wang, **Yiming Li**, Hong Liu, Xiangdong Wang.
+- ``ACM MM 2024`` [Advancing Multi-grained Alignment for Contrastive Language-Audio Pre-training](https://arxiv.org/html/2408.07919v1) (oral, top 3%), **Yiming Li**, Zhifang Guo, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Audio-free Prompt Tuning for Language-Audio Models](https://arxiv.org/abs/2309.08357), **Yiming Li**, Xiangdong Wang, Hong Liu.
 - ``ICASSP 2024`` [Semi-supervised Sound Event Detection with Local and Global Consistency Regularization](https://arxiv.org/abs/2309.08355), **Yiming Li**, Xiangdong Wang, Hong Liu, et al.
 - ``DCASE Workshop 2022`` [A Hybrid System of Sound Event Detection Transformer and Frame-wise Model for DCASE 2022 Task 4](https://arxiv.org/abs/2210.09529), **Yiming Li**, Zhifang Guo, Zhirong Ye, et al.
